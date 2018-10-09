@@ -1,3 +1,4 @@
+%Copyright 2018, MeiJiaming ShanghaiTech
 %I am here trying to use class to implement the AD
 %{
 if we don't have the nargin,we would have not enough inputs,
